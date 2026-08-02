@@ -14,7 +14,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 ##### <p align="center"> [nominate someone here , on the strawpage !](https://ponychievements.straw.page)
 
-well - known players :
+well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a>
 
 pretty ponies :
 
