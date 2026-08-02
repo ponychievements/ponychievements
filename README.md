@@ -14,7 +14,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 ##### <p align="center"> [nominate someone here , on the strawpage !](https://ponychievements.straw.page)
 
-well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a>
+well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a>
 
 pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a>
 
@@ -24,7 +24,7 @@ pretty githubs :
 
 niche players :
 
-cuddly players :
+cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a>
 
 artsy players :
 
