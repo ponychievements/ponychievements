@@ -1,4 +1,6 @@
 <p align="center">
+last upd : august 2nd 2026
+<p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=e05d44&labelColor=f7fca6"/></a>
   
 <p align="center">
