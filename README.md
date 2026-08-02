@@ -1,1 +1,2 @@
-
+<p align="center">
+hello ponytown, and welcome to ponychievements! in this repository, we will soon have multiple ponytowners listed in sections of which fit their “achievements” best! we will also have people listed as characters of ponytown! if you would like to nominate someone (or yourself), please go to the strawpage and nominate their/your username with the section you wanna be in and/or the character you would like to be listed as!
