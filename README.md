@@ -20,7 +20,7 @@ pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="h
 
 creative ponies :
 
-pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a>
+pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a>
 
 niche players :
 
