@@ -14,11 +14,11 @@ creative ponies :
 
 pretty githubs :
 
-niche ponies :
+niche players :
 
-cuddly ponies :
+cuddly players :
 
-artsy ponies :
+artsy players :
 
-kindest ponies :
+kindest players :
 
