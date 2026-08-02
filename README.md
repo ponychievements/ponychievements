@@ -44,6 +44,8 @@ characters of ponytown !
 
 <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> is ponytown’s aldo_geo !
 
+<a href="https://github.com/MrNovalite">@MrNovalite</a> is ponytown’s astro novalite !
+
 
 
 
