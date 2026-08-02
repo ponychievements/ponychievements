@@ -16,11 +16,11 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a>
 
-pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a>
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a>
 
 creative ponies :
 
-pretty githubs :
+pretty githubs : 
 
 niche players :
 
@@ -28,7 +28,7 @@ cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a>
 
 artsy players :
 
-kindest players :
+kindest players : <a href="https://github.com/gamblersi">@gamblersi</a>
 
 
 <p align="center">
