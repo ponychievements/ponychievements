@@ -37,3 +37,13 @@ kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a>
 
 <p align="center">
 characters of ponytown !
+
+<a href="https://github.com/yaasuhiro">@yaasuhiro</a> is ponytown’s yasuhiro hagakure !
+
+<a href="https://github.com/bunchoffriends">@bunchoffriends</a> is ponytown’s anthony po !
+
+<a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> is ponytown’s aldo_geo !
+
+
+
+
