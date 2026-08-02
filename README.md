@@ -16,7 +16,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a>
 
-pretty ponies :
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a>
 
 creative ponies :
 
