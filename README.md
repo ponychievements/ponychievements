@@ -10,11 +10,11 @@ hello ponytown, and welcome to ponychievements! on this page, we will soon have 
 $\tiny{\textsf{this account is inspired by other ponytown award accounts such aa @title-town and pt-awards !}}$
 
 <p align="center">
-KEEP IN MIND! this is just for fun and entertainment! and more categories are to come soon!
+KEEP IN MIND! this is just for fun and entertainment! and more categories are to come soon! please be patient!
 
 ##### <p align="center"> [nominate someone here , on the strawpage !](https://ponychievements.straw.page)
 
-well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a>
+well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a>
 
 pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a>
 
