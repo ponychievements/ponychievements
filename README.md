@@ -259,7 +259,7 @@ characters of ponytown !
 
 <a href="https://github.com/suguruberry">@suguruberry</a> is ponytown’s peter parker !
 
-<a href="https://github.com/futuristic-maniac">@futuristic-maniac</a> is ponytown’s yuuri brando !
+<a href="https://github.com/futuristic-maniac">@futuristic-maniac</a> is ponytown’s yuuri (glt) !
 
 <a href="https://github.com/sl33plessnights">@sl33plessnights</a> is ponytown’s sheldon j. plankton !
 
