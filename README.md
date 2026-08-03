@@ -141,3 +141,9 @@ characters of ponytown !
 <a href="https://github.com/neverwanted2dance">@neverwanted2dance</a> is ponytown’s vee version 1 !
 
 <a href="https://github.com/evbomc">@evbomc</a> is ponytown’s evbo !
+
+<a href="https://github.com/sorbetflakes">@sorbetflakes</a> is ponytown’s cuphead !
+
+<a href="https://github.com/sea-shantyyy">@sea-shantyyy</a> is ponytown’s telamon !
+
+<a href="https://github.com/ramudaa">@ramudaa</a> is ponytown’s ramuda amemura !
