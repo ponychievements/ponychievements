@@ -170,4 +170,4 @@ characters of ponytown !
 
 <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a> is ponytown’s thatmob !
 
-<a href="https://github.com/pupfies">@pupfies</a> is wifies !
+<a href="https://github.com/pupfies">@pupfies</a> is ponytown’s wifies !
