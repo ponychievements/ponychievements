@@ -88,3 +88,9 @@ characters of ponytown !
 
 <a href="https://github.com/dewittelurv">@dewittelurv</a> is ponytown’s theobaldthebird !
 
+<a href="https://github.com/Aspenolia">@Aspenolia</a> is ponytown’s azure !
+
+<a href="https://github.com/R0DRICK-HEFFLEY">@R0DRICK-HEFFLEY</a> is ponytown’s rodrick heffley !
+
+<a href="https://github.com/realdustsans">@realdustsans</a> is ponytown’s dust sans !
+
