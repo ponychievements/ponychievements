@@ -14,6 +14,10 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 ##### <p align="center"> [nominate someone here , on the strawpage !](https://ponychievements.straw.page)
 
+<p align="center">
+ <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
+</p>
+
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a>
 
 pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a>
