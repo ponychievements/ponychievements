@@ -278,3 +278,5 @@ characters of ponytown !
 <a href="https://github.com/MavaKorolev">@MavaKorolev</a> is ponytown’s shoto todoroki !
 
 <a href="https://github.com/starfollower">@starfollower</a> is ponytown’s rocket (phighting) !
+
+<a href="https://github.com/ACE0FHEART5">@ACE0FHEART5</a> is ponytown’s dog chance !
