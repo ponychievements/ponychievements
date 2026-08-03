@@ -112,4 +112,6 @@ characters of ponytown !
 
 <a href="https://github.com/lovingl3tters">@lovingl3tters</a> is ponytown’s caporegime !
 
-<a href="https://github.com/bassiebloomingtonofficial">@bassiebloomingtonofficial</a> is bassie bloomington !
+<a href="https://github.com/bassiebloomingtonofficial">@bassiebloomingtonofficial</a> is ponytown’s bassie bloomington !
+
+<a href="https://github.com/coal-irl">@coal-irl</a> is ponytown’s coal the rock !
