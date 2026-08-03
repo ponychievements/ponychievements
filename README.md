@@ -126,3 +126,9 @@ characters of ponytown !
 
 <a href="https://github.com/plumpest">@plumpest</a> is ponytown’s william ellis (identity v) !
 
+<a href="https://github.com/eggypancake1">@eggypancake1</a> is ponytown’s bilbo baggins !
+
+<a href="https://github.com/star-seth">@star-seth</a> is ponytown’s satoru gojo !
+
+<a href="https://github.com/boybabe">@boybabe</a> is ponytown’s noli !
+
