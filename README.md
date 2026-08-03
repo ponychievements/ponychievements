@@ -109,3 +109,5 @@ characters of ponytown !
 <a href="https://github.com/meteoroiogist">@meteoroiogist</a> is vincent whittman !
 
 <a href="https://github.com/tomatosu">@tomatosu</a> is ponytown’s sasuke uchiha !
+
+<a href="https://github.com/lovingl3tters">@lovingl3tters</a> is ponytown’s caporegime !
