@@ -222,3 +222,15 @@ characters of ponytown !
 
 <a href="https://github.com/charliezahrlie">@charliezahrlie</a> is ponytown’s nagito komaeda !
 
+<a href="https://github.com/accidentaldeath">@accidentaldeath</a> is ponytown’s chara (undertale) !
+
+<a href="https://github.com/azpyiel">@azpyiel</a> is ponytown’s golden cheese cookie !
+
+<a href="https://github.com/samuraswife">@samuraswife</a> is ponytown’s yuji itadori !
+
+<a href="https://github.com/headnurseIRL">@headnurseIRL</a> is ponytown’s intern !
+
+<a href="https://github.com/IZntZkeeterz">@IZntZkeeterz</a> is ponytown’s ItzSkeetXD662 !
+
+<a href="https://github.com/Flyingdragoncorn">@Flyingdragoncorn</a> is ponytown’s medic !
+
