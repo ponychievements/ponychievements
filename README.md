@@ -98,3 +98,5 @@ characters of ponytown !
 
 <a href="https://github.com/littleapplemuffins">@littleapplemuffins</a> is ponytown’s aqua (deltarune) !
 
+<a href="https://github.com/VIL-ILY">@VIL-ILY</a> is ponytown’s rook hunt !
+
