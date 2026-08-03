@@ -20,7 +20,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a>
 
-pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a>
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a>
 
 creative ponies :
 
@@ -28,7 +28,7 @@ pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="
 
 niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a>
 
-cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a>
+cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a>
 
 artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
