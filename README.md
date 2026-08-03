@@ -56,7 +56,7 @@ characters of ponytown !
 
 <a href="https://github.com/sebvsene">@sebvsene</a> is ponytown’s jason todd !
 
-<a href="https://github.com/denguemon">@denguemon</a> is ponytown’s shin joong hyun (godfather of korean rock) !
+<a href="https://github.com/jackieshin">@jackieshin</a> is ponytown’s shin joong hyun (godfather of korean rock) !
 
 <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> is ponytown’s dean winchester !
 
