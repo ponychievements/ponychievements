@@ -156,5 +156,5 @@ characters of ponytown !
 
 <a href="https://github.com/P1NKPO1SON">@P1NKPO1SON</a> is ponytown’s vinsmoke reiju !
 
-<a href="https://github.com/xaden6">@xaden6</a> is ponytown’s biograft (phiting) !
+<a href="https://github.com/xaden6">@xaden6</a> is ponytown’s biograft (phighting) !
 
