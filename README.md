@@ -102,3 +102,4 @@ characters of ponytown !
 
 <a href="https://github.com/TwistedPastry">@TwistedPastry</a> is ponytown’s cosmo the pastry !
 
+<a href="https://github.com/loveruffle">@loveruffle</a> is ponytown’s isagi yoichi !
