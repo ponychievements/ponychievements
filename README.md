@@ -18,7 +18,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
 </p>
 
-well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/bigguykoi">@bigguykoi</a> <a href="https://github.com/totaldramas">@totaldramas</a>
+well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/bigguykoi">@bigguykoi</a> <a href="https://github.com/totaldramas">@totaldramas</a> <a href="https://github.com/chick-habit">@chick-habit</a>
 
 pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/Solyrvv">@Solyrvv</a> <a href="https://github.com/yubelsrevenge">@yubelsrevenge</a>
 
@@ -264,4 +264,8 @@ characters of ponytown !
 
 <a href="https://github.com/faded-radiance">@faded-radiance</a> is ponytown’s eternal sugar cookie !
 
-<a href="https://github.com/Cuddling-Encouraged-heavily-Dnc">@Cuddling-Encouraged-heavily-Dnc</a> is ponytown’s Aubree (ihafl) !
+<a href="https://github.com/Cuddling-Encouraged-heavily-Dnc">@Cuddling-Encouraged-heavily-Dnc</a> is ponytown’s aubree (ihafl) !
+
+<a href="https://github.com/chick-habit">@chick-habit</a> is ponytown’s murdoc !
+
+<a href="https://github.com/spesilver">@spesilver</a> is ponytown’s silver (pokespe) !
