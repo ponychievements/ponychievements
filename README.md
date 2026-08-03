@@ -26,7 +26,7 @@ creative ponies :
 
 pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a>
 
-niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a>
+niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a>
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a>
 
@@ -131,4 +131,6 @@ characters of ponytown !
 <a href="https://github.com/star-seth">@star-seth</a> is ponytown’s satoru gojo !
 
 <a href="https://github.com/boybabe">@boybabe</a> is ponytown’s noli !
+
+<a href="https://github.com/IHASAFACE-LULZ">@IHASAFACE-LULZ</a> is ponytown’s wemmbu !
 
