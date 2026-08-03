@@ -138,3 +138,5 @@ characters of ponytown !
 
 <a href="https://github.com/vatrinyasin">@vatrinyasin</a> is ponytown’s sae itoshi (blue lock) !
 
+<a href="https://github.com/neverwanted2dance">@neverwanted2dance</a> is ponytown’s vee version 1 !
+
