@@ -78,3 +78,5 @@ characters of ponytown !
 
 <a href="https://github.com/2099s">@2099s</a> is ponytown’s miguel o’hara !
 
+<a href="https://github.com/Pursuerxziii">@Pursuerxziii</a> is ponytown’s pursuer !
+
