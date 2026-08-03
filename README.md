@@ -50,5 +50,7 @@ characters of ponytown !
 
 <a href="https://github.com/gamblersi">@Gamblersi</a> is ponytown’s chance !
 
+<a href="https://github.com/sebvsene">@sebvsene</a> is ponytown’s jason todd !
+
 
 
