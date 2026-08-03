@@ -70,3 +70,5 @@ characters of ponytown !
 
 <a href="https://github.com/kniferrific">@kniferrific</a> is ponytown’s craig tucker !
 
+<a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> is ponytown’s bendy !
+
