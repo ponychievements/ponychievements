@@ -32,7 +32,7 @@ kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href=
 
 
 <p align="center">
- <img src="https://files.catbox.moe/g545ya.png"style="width: 100%; height: auto;" />
+ <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
 </p>
 
 <p align="center">
