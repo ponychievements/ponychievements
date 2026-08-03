@@ -107,3 +107,5 @@ characters of ponytown !
 <a href="https://github.com/WhispedVanilla">@WhispedVanilla</a> is ponytown’s slingshot !
 
 <a href="https://github.com/meteoroiogist">@meteoroiogist</a> is vincent whittman !
+
+<a href="https://github.com/tomatosu">@tomatosu</a> is ponytown’s sasuke uchiha !
