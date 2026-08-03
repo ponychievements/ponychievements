@@ -46,6 +46,7 @@ characters of ponytown !
 
 <a href="https://github.com/MrNovalite">@MrNovalite</a> is ponytown’s astro novalite !
 
+<a href="https://github.com/TEARY-EYED">@TEARY-EYED</a> is ponytown’s asuka langley soryu !
 
 
 
