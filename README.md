@@ -212,3 +212,13 @@ characters of ponytown !
 
 <a href="https://github.com/wireplayer">@wireplayer</a> is ponytown’s badware (die of death) !
 
+<a href="https://github.com/RingmasterAI">@RingmasterAI</a> is ponytown’s caine !
+
+<a href="https://github.com/tennaville">@tennaville</a> is ponytown’s ant tenna (deltarune) !
+
+<a href="https://github.com/gambleghost">@gambleghost</a> is ponytown’s connie boolynski !
+
+<a href="https://github.com/Z4WARUD0">@Z4WARUD0</a> is ponytown’s dio brando !
+
+<a href="https://github.com/charliezahrlie">@charliezahrlie</a> is ponytown’s nagito komaeda !
+
