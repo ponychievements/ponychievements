@@ -48,5 +48,7 @@ characters of ponytown !
 
 <a href="https://github.com/TEARY-EYED">@TEARY-EYED</a> is ponytown’s asuka langley soryu !
 
+<a href="https://github.com/gamblersi">@Gamblersi</a> is ponytown’s chance !
+
 
 
