@@ -263,3 +263,5 @@ characters of ponytown !
 <a href="https://github.com/fishyz-cake">@fishyz-cake</a> is ponytown’s mahito (jjk) !
 
 <a href="https://github.com/faded-radiance">@faded-radiance</a> is ponytown’s eternal sugar cookie !
+
+<a href="https://github.com/Cuddling-Encouraged-heavily-Dnc">@Cuddling-Encouraged-heavily-Dnc</a> is ponytown’s Aubree (ihafl) !
