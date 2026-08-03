@@ -261,3 +261,5 @@ characters of ponytown !
 <a href="https://github.com/sl33plessnights">@sl33plessnights</a> is ponytown’s sheldon j. plankton !
 
 <a href="https://github.com/fishyz-cake">@fishyz-cake</a> is ponytown’s mahito (jjk) !
+
+<a href="https://github.com/faded-radiance">@faded-radiance</a> is ponytown’s eternal sugar cookie !
