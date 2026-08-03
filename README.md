@@ -235,3 +235,5 @@ characters of ponytown !
 <a href="https://github.com/Flyingdragoncorn">@Flyingdragoncorn</a> is ponytown’s medic !
 
 <a href="https://github.com/kiwiconicc">@kiwiconicc</a> is ponytown’s saiki kusuo !
+
+<a href="https://github.com/VOXMANIA">@VOXMANIA</a> is ponytown’s vox (hazbin hotel) !
