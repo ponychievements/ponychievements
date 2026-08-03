@@ -1,7 +1,7 @@
 <p align="center">
 last upd : august 2nd 2026
 <p align="center">
-<a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=e05d44&labelColor=f7fca6"/></a>
+<a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=B96178&labelColor=F9F4CC"/></a>
   
 <p align="center">
 hello ponytown, and welcome to ponychievements! on this page, we have multiple ponytowners listed in categories of which fit their “achievements” best! we will also have people listed as characters of ponytown! if you would like to nominate someone (or yourself), please go to to the ponychievement <a href="https://ponychievements.straw.page">strawpage</a> and nominate their or your username with the category you wanna be in and/or the character you would like to be listed as! you can be in up to 2 categories , but only assigned to one character!
