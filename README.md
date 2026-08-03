@@ -20,15 +20,15 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/bigguykoi">@bigguykoi</a>
 
-pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a>
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/Solyrvv">@Solyrvv</a> <a href="https://github.com/yubelsrevenge">@yubelsrevenge</a>
 
 creative ponies :
 
-pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a>
+pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a> <a href="https://github.com/rinsagi">@rinsagi</a>
 
 niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a> <a href="https://github.com/siriuzs">@siriuzs</a>
 
-cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a>
+cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/01yaoimaster">@01yaoimaster</a>
 
 artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
@@ -171,3 +171,28 @@ characters of ponytown !
 <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a> is ponytown’s thatmob !
 
 <a href="https://github.com/pupfies">@pupfies</a> is ponytown’s wifies !
+
+<a href="https://github.com/nnyanruto">@nnyanruto</a> is ponytown’s naruto uzumaki !
+
+<a href="https://github.com/fou11egacy">@fou11egacy</a> is ponytown’s childe !
+
+<a href="https://github.com/Pale-Garden">@Pale-Garden</a> is ponytown’s swight !
+
+<a href="https://github.com/creation0fhatred">@creation0fhatred</a> is ponytown’s 1x1x1x1 !
+
+<a href="https://github.com/biII-cipher">@biII-cipher</a> is ponytown’s bill cipher !
+
+<a href="https://github.com/Heart0fGold">@Heart0fGold</a> is ponytown’s karl (g&b) !
+
+<a href="https://github.com/GHOSTBUSTERS-SFX">@GHOSTBUSTERS-SFX</a> is ponytown’s scared french soldier (g&b) !
+
+<a href="https://github.com/Solyrvv">@Solyrvv</a> is ponytown’s hyuna !
+
+<a href="https://github.com/simurians">@simurians</a> is ponytown’s dabura !
+
+<a href="https://github.com/mortisfication">@mortisfication</a> is ponytown’s john ward (f:tut) !
+
+<a href="https://github.com/FLORAISONS">@FLORAISONS</a> is ponytown’s matt dusekkar !
+
+<a href="https://github.com/shiinonome">@shiinonome</a> is ponytown’s ena shinonome !
+
