@@ -30,7 +30,7 @@ niche players :
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a>
 
-artsy players :
+artist players :
 
 kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a>
 
