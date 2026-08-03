@@ -124,3 +124,5 @@ characters of ponytown !
 
 <a href="https://github.com/KayleighJudas">@KayleighJudas</a> is ponytown’s machine herald !
 
+<a href="https://github.com/plumpest">@plumpest</a> is ponytown’s william ellis (identity v) !
+
