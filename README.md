@@ -80,3 +80,5 @@ characters of ponytown !
 
 <a href="https://github.com/Pursuerxziii">@Pursuerxziii</a> is ponytown’s pursuer !
 
+<a href="https://github.com/ShellzyFossilzianz">@ShellzyFossilzianz</a> is ponytown’s three bfdi / tpot !
+
