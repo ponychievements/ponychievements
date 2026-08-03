@@ -2,6 +2,9 @@
 LAST UPDATE : august 3rd 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
+
+<p align="center">
+PLEASE READ!!! : until august 5th i will only be adding people to categories, and not any characters of ponytown at the moment! any character nominations sent before then will not be done, sadly. for now, just categories.
   
 <p align="center">
 hello ponytown, and welcome to ponychievements! on this page, we have multiple ponytowners listed in categories of which fit their “achievements” best! we will also have people listed as characters of ponytown! if you would like to nominate someone (or yourself), please go to to the ponychievement <a href="https://ponychievements.straw.page">strawpage</a> and nominate their or your username with the category you wanna be in and/or the character you would like to be listed as! you can be in up to 2 categories , but only assigned to one character!
@@ -24,7 +27,7 @@ pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="h
 
 creative ponies :
 
-pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a> <a href="https://github.com/rinsagi">@rinsagi</a>
+pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a> <a href="https://github.com/rinsagi">@rinsagi</a> <a href="https://github.com/sw33tsug4rcookie">@sw33tsug4rcookie</a>
 
 niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a> <a href="https://github.com/siriuzs">@siriuzs</a> <a href="https://github.com/saps4flux">@saps4flux</a>
 
@@ -271,3 +274,7 @@ characters of ponytown !
 <a href="https://github.com/spesilver">@spesilver</a> is ponytown’s silver (pokespe) !
 
 <a href="https://github.com/flaskofvodka">@flaskofvodka</a> is ponytown’s tom (eddsworld) !
+
+<a href="https://github.com/MavaKorolev">@MavaKorolev</a> is ponytown’s shoto todoroki !
+
+<a href="https://github.com/starfollower">@starfollower</a> is ponytown’s rocket (phighting) !
