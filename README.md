@@ -32,7 +32,7 @@ cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a hr
 
 artist players :
 
-kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a>
+kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a>
 
 
 <p align="center">
