@@ -269,3 +269,5 @@ characters of ponytown !
 <a href="https://github.com/chick-habit">@chick-habit</a> is ponytown’s murdoc !
 
 <a href="https://github.com/spesilver">@spesilver</a> is ponytown’s silver (pokespe) !
+
+<a href="https://github.com/flaskofvodka">@flaskofvodka</a> is ponytown’s tom (eddsworld) !
