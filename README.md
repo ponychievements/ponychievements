@@ -134,3 +134,9 @@ characters of ponytown !
 
 <a href="https://github.com/IHASAFACE-LULZ">@IHASAFACE-LULZ</a> is ponytown’s wemmbu !
 
+<a href="https://github.com/itsritsu">@itsritsu</a> is ponytown’s enkidu (fate series) !
+
+<a href="https://github.com/ENUMAELISH">@ENUMAELISH</a> is ponytown’s gilgamesh (fate series) !
+
+<a href="https://github.com/vatrinyasin">@vatrinyasin</a> is ponytown’s sae itoshi (blue lock) !
+
