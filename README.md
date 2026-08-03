@@ -26,7 +26,7 @@ creative ponies :
 
 pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a>
 
-niche players :
+niche players : <a href="https://github.com/kniferrific">@kniferrific</a>
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a>
 
@@ -67,4 +67,6 @@ characters of ponytown !
 <a href="https://github.com/Xaplastcore">@Xaplastcore</a> is ponytown’s optimus prime !
 
 <a href="https://github.com/Corintheuss">@Corintheuss</a> is ponytown’s artful !
+
+<a href="https://github.com/kniferrific">@kniferrific</a> is ponytown’s craig tucker !
 
