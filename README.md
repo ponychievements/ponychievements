@@ -76,3 +76,5 @@ characters of ponytown !
 
 <a href="https://github.com/141ZXR">@141ZXR</a> is ponytown’s soap mactavish !
 
+<a href="https://github.com/2099s">@2099s</a> is ponytown’s miguel o’hara !
+
