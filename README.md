@@ -20,13 +20,13 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a>
 
-pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a>
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a>
 
 creative ponies :
 
 pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a>
 
-niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a>
+niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a> <a href="https://github.com/siriuzs">@siriuzs</a>
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a>
 
@@ -147,3 +147,14 @@ characters of ponytown !
 <a href="https://github.com/sea-shantyyy">@sea-shantyyy</a> is ponytown’s telamon !
 
 <a href="https://github.com/ramudaa">@ramudaa</a> is ponytown’s ramuda amemura !
+
+<a href="https://github.com/disorderlyfashion">@disorderlyfashion</a> is ponytown’s raphael (tmnt 2012) !
+
+<a href="https://github.com/verjty">@verjty</a> is ponytown’s verity !
+
+<a href="https://github.com/Tillsguitar">@Tillsguitar</a> is ponytown’s till (alien stage) !
+
+<a href="https://github.com/P1NKPO1SON">@P1NKPO1SON</a> is ponytown’s vinsmoke reiju !
+
+<a href="https://github.com/xaden6">@xaden6</a> is ponytown’s biograft (phiting) !
+
