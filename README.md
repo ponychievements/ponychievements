@@ -52,5 +52,7 @@ characters of ponytown !
 
 <a href="https://github.com/sebvsene">@sebvsene</a> is ponytown’s jason todd !
 
+<a href="https://github.com/denguemon">@denguemon</a> is ponytown’s shin joong hyun !
+
 
 
