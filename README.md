@@ -96,3 +96,5 @@ characters of ponytown !
 
 <a href="https://github.com/Blame-John">@Blame-John</a> is ponytown’s shedletsky !
 
+<a href="https://github.com/littleapplemuffins">@littleapplemuffins</a> is ponytown’s aqua (deltarune) !
+
