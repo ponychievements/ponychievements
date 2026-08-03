@@ -30,7 +30,7 @@ niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a hre
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a>
 
-artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a>
+artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
 kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a>
 
