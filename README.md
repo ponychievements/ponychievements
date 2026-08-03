@@ -242,4 +242,4 @@ characters of ponytown !
 
 <a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s akkurone !
 
-<a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s michaelangelo (tmnt 2012) !
+<a href="https://github.com/freakedoutboy">@freakedoutboy</a> is ponytown’s michaelangelo (tmnt 2012) !
