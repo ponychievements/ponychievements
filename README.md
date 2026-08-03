@@ -84,3 +84,7 @@ characters of ponytown !
 
 <a href="https://github.com/zyvism">@zyvism</a> is ponytown’s two time !
 
+<a href="https://github.com/lostcxuse">@lostcxuse</a> is ponytown’s nezoshoki !
+
+<a href="https://github.com/dewittelurv">@dewittelurv</a> is ponytown’s theobaldthebird !
+
