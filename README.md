@@ -66,3 +66,5 @@ characters of ponytown !
 
 <a href="https://github.com/Xaplastcore">@Xaplastcore</a> is ponytown’s optimus prime !
 
+<a href="https://github.com/Corintheuss">@Corintheuss</a> is ponytown’s artful !
+
