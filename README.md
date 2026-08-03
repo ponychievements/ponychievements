@@ -121,3 +121,6 @@ characters of ponytown !
 <a href="https://github.com/B3RDLY">@B3RDLY</a> is ponytown’s berdley (deltarune) !
 
 <a href="https://github.com/eversleeping-town">@eversleeping-town</a> is ponytown’s ada wong !
+
+<a href="https://github.com/KayleighJudas">@KayleighJudas</a> is ponytown’s machine harold !
+
