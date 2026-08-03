@@ -241,3 +241,5 @@ characters of ponytown !
 <a href="https://github.com/77crescentmoon">@77crescentmoon</a> is ponytown’s parrotx2 !
 
 <a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s akkurone !
+
+<a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s michaelangelo (tmnt 2012) !
