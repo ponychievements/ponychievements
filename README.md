@@ -196,3 +196,19 @@ characters of ponytown !
 
 <a href="https://github.com/shiinonome">@shiinonome</a> is ponytown’s ena shinonome !
 
+<a href="https://github.com/ReplicaOfAffection">@ReplicaOfAffection</a> is ponytown’s fukua !
+
+<a href="https://github.com/myshghoul">@myshghoul</a> is ponytown’s william birkin !
+
+<a href="https://github.com/MizuLiker">@MizuLiker</a> is ponytown’s yinyang (inanimate insanity player)!
+
+<a href="https://github.com/parameowia">@parameowia</a> is ponytown’s skittles (hwwhp) !
+
+<a href="https://github.com/blehpigsterr">@blehpigsterr</a> is ponytown’s dee shvagenbagen !
+
+<a href="https://github.com/thatorangecatt">@thatorangecatt</a> is ponytown’s grace ashcroft (resident evil) !
+
+<a href="https://github.com/MiguelOharaL0ver">@MiguelOharaL0ver</a> is ponytown’s lyla (atsv)!
+
+<a href="https://github.com/wireplayer">@wireplayer</a> is ponytown’s badware (die of death) !
+
