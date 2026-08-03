@@ -162,7 +162,7 @@ characters of ponytown !
 
 <a href="https://github.com/itrap-2245">@itrap-2245</a> is ponytown’s itrapped !
 
-<a href="https://github.com/CherrieJam">@CherrieJam</a> is ponytown’s luna club !
+<a href="https://github.com/CherrieJam">@CherrieJam</a> is ponytown’s windblade !
 
 <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> is ponytown’s guest 1337 !
 
@@ -243,3 +243,21 @@ characters of ponytown !
 <a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s akkurone !
 
 <a href="https://github.com/freakedoutboy">@freakedoutboy</a> is ponytown’s michaelangelo (tmnt 2012) !
+
+<a href="https://github.com/qnakin">@qnakin</a> is ponytown’s anakin skywalker !
+
+<a href="https://github.com/mydigitalescape">@mydigitalescape</a> is ponytown’s robert chase !
+
+<a href="https://github.com/zandiik">@zandiik</a> is ponytown’s dottore (genshin impact) !
+
+<a href="https://github.com/finnwoIfhard">@finnwoIfhard</a> is ponytown’s will byers !
+
+<a href="https://github.com/zouweemama">@zouweemama</a> is ponytown’s kaworu nagisa !
+
+<a href="https://github.com/suguruberry">@suguruberry</a> is ponytown’s peter parker !
+
+<a href="https://github.com/futuristic-maniac">@futuristic-maniac</a> is ponytown’s yuuri brando !
+
+<a href="https://github.com/sl33plessnights">@sl33plessnights</a> is ponytown’s sheldon j. plankton !
+
+<a href="https://github.com/fishyz-cake">@fishyz-cake</a> is ponytown’s mahito (jjk) !
