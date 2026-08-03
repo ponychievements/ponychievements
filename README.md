@@ -237,3 +237,7 @@ characters of ponytown !
 <a href="https://github.com/kiwiconicc">@kiwiconicc</a> is ponytown’s saiki kusuo !
 
 <a href="https://github.com/VOXMANIA">@VOXMANIA</a> is ponytown’s vox (hazbin hotel) !
+
+<a href="https://github.com/77crescentmoon">@77crescentmoon</a> is ponytown’s parrotx2 !
+
+<a href="https://github.com/arachnidace">@arachnidace</a> is ponytown’s akkurone !
