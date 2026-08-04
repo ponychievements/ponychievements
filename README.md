@@ -4,8 +4,12 @@ LAST UPDATE : august 3rd 2026
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
 <p align="center">
-PLEASE READ!!! : until august 5th i will only be adding people to categories, and not any characters of ponytown at the moment! any character nominations sent before then will not be done, sadly, so please don’t send any. for now, just categories. and just know— this may extend past august 5th! i apologize in advance . :(
-  
+𝐏𝐋𝐄𝐀𝐒𝐄 𝐑𝐄𝐀𝐃!!! : 𝐮𝐧𝐭𝐢𝐥 𝐚𝐮𝐠𝐮𝐬𝐭 𝟓𝐭𝐡 𝐢 𝐰𝐢𝐥𝐥 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐚𝐝𝐝𝐢𝐧𝐠 𝐩𝐞𝐨𝐩𝐥𝐞 𝐭𝐨 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬, 𝐚𝐧𝐝 𝐧𝐨𝐭 𝐚𝐧𝐲 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐬 𝐨𝐟 𝐩𝐨𝐧𝐲𝐭𝐨𝐰𝐧 𝐚𝐭 𝐭𝐡𝐞 𝐦𝐨𝐦𝐞𝐧𝐭! 𝐚𝐧𝐲 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫 𝐧𝐨𝐦𝐢𝐧𝐚𝐭𝐢𝐨𝐧𝐬 𝐬𝐞𝐧𝐭 𝐛𝐞𝐟𝐨𝐫𝐞 𝐭𝐡𝐞𝐧 𝐰𝐢𝐥𝐥 𝐧𝐨𝐭 𝐛𝐞 𝐝𝐨𝐧𝐞, 𝐬𝐚𝐝𝐥𝐲, 𝐬𝐨 𝐩𝐥𝐞𝐚𝐬𝐞 𝐝𝐨𝐧’𝐭 𝐬𝐞𝐧𝐝 𝐚𝐧𝐲. 𝐟𝐨𝐫 𝐧𝐨𝐰, 𝐣𝐮𝐬𝐭 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬. 𝐚𝐧𝐝 𝐣𝐮𝐬𝐭 𝐤𝐧𝐨𝐰— 𝐭𝐡𝐢𝐬 𝐦𝐚𝐲 𝐞𝐱𝐭𝐞𝐧𝐝 𝐩𝐚𝐬𝐭 𝐚𝐮𝐠𝐮𝐬𝐭 𝟓𝐭𝐡! 𝐢 𝐚𝐩𝐨𝐥𝐨𝐠𝐢𝐳𝐞 𝐢𝐧 𝐚𝐝𝐯𝐚𝐧𝐜𝐞 . :(
+
+<p align="center">
+ <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
+</p>
+
 <p align="center">
 hello ponytown, and welcome to ponychievements! on this page, we have multiple ponytowners listed in categories of which fit their “achievements” best! we will also have people listed as characters of ponytown! if you would like to nominate someone (or yourself), please go to to the ponychievement <a href="https://ponychievements.straw.page">strawpage</a> and nominate their or your username with the category you wanna be in and/or the character you would like to be listed as! you can be in up to 2 categories , but only assigned to one character!
 
