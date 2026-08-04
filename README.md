@@ -39,8 +39,7 @@ cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a hr
 
 artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
-kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/electrifypink">@electrifypink</a>
-
+kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/electrifypink">@electrifypink</a> <a href="https://github.com/devimccallion">@devimccallion</a> <a href="https://github.com/funk4punks">@funk4punks</a>
 
 <p align="center">
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
