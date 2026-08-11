@@ -3,7 +3,6 @@ LAST UPDATE : august 8th 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
-## <p align="center"> PLEASE READ DO NOT IGNORE!!!!! : until august 11th I WILL NOT BE DOING CHARACTER NOMINATIONS. i will only be doing category nominations, not characters, so please don’t send ANY character nominations until august 11th or atleast until this message isn’t here anymore. again, categories only, no character right now. i apologize in advance . :(
 
 <p align="center">
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
