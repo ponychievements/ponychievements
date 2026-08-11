@@ -15,7 +15,7 @@ hello ponytown, and welcome to ponychievements! on this page, we have multiple p
 $\tiny{\textsf{this account is inspired by other ponytown award accounts such aa @title-town and pt-awards !}}$
 
 <p align="center">
-KEEP IN MIND! this is just for fun and entertainment! and more categories are to come soon! please be patient!
+KEEP IN MIND! this is just for fun and entertainment! and more categories are to come soon! please be patient, not everyone gets added
 
 ##### <p align="center"> [nominate someone here , on the strawpage !](https://ponychievements.straw.page)
 
