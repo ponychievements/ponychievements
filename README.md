@@ -285,3 +285,5 @@ characters of ponytown !
 <a href="https://github.com/RE0-MIKAGE">@RE0-MIKAGE</a> is ponytown’s pts reo mikage !
 
 <a href="https://github.com/MoriouChoRadio">@MoriouChoRadio</a> is ponytown’s koichi hirose !
+
+<a href="https://github.com/ryomxnsukuna">@ryomxnsukuna</a> is ponytown’s sukuna !
