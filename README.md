@@ -1,5 +1,5 @@
 <p align="center">
-LAST UPDATE : august 12th 2026
+LAST UPDATE : august 13th 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
@@ -33,7 +33,7 @@ pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="
 
 niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a> <a href="https://github.com/siriuzs">@siriuzs</a> <a href="https://github.com/saps4flux">@saps4flux</a> <a href="https://github.com/sweetiepii">@sweetiepii</a>
 
-cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/01yaoimaster">@01yaoimaster</a> <a href="https://github.com/dustinsconstellation">@dustinsconstellation</a> <a href="https://github.com/CloveredFields">@CloveredFields</a> <a href="https://github.com/harveqxd">@harveqxd</a> <a href="https://github.com/cemetriiez">@cemetriiez</a> <a href="https://github.com/princezammiest">@princezammiest</a> <a href="https://github.com/Mayumixx">@Mayumixx</a>
+cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/01yaoimaster">@01yaoimaster</a> <a href="https://github.com/dustinsconstellation">@dustinsconstellation</a> <a href="https://github.com/CloveredFields">@CloveredFields</a> <a href="https://github.com/harveqxd">@harveqxd</a> <a href="https://github.com/cemetriiez">@cemetriiez</a> <a href="https://github.com/princezammiest">@princezammiest</a> <a href="https://github.com/Mayumixx">@Mayumixx</a> <a href="https://github.com/SillySin123">@SillySin123</a>
 
 artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
