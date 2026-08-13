@@ -25,7 +25,7 @@ KEEP IN MIND! this is just for fun and entertainment! and more categories are to
 
 well - known players : <a href="https://github.com/4lamort">@4lamort</a> <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/yvoisen">@yvoisen</a> <a href="https://github.com/sebvsene">@sebvsene</a> <a href="https://github.com/horroryaoi">@horroryaoi</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/arrowhazard">@arrowhazard</a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/evbomc">@evbomc</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/bigguykoi">@bigguykoi</a> <a href="https://github.com/totaldramas">@totaldramas</a> <a href="https://github.com/chick-habit">@chick-habit</a> <a href="https://github.com/clownfoe">@clownfoe</a> <a href="https://github.com/N1TEB0I">@N1TEB0I</a>
 
-pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/Solyrvv">@Solyrvv</a> <a href="https://github.com/yubelsrevenge">@yubelsrevenge</a> <a href="https://github.com/Chemicalshot">@Chemicalshot</a> <a href="https://github.com/NorthernShine">@NorthernShine</a> <a href="https://github.com/hamfoolish">@hamfoolish</a> <a href="https://github.com/UICTIM">@UICTIM</a> <a href="https://github.com/lostyaoi">@lostyaoi</a> <a href="https://github.com/princezammiest">@princezammiest</a> <a href="https://github.com/purefatal">@purefatal</a> <a href="https://github.com/1-IV">@1-IV</a>
+pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/CONEXlONN">@CONEXlONN</a> <a href="https://github.com/simon-henriksson">@simon-henriksson</a> <a href="https://github.com/lronmary">@lronmary</a> <a href="https://github.com/whokilledmarkiplier">@whokilledmarkiplier</a> <a href="https://github.com/flairforthedramatic">@flairforthedramatic</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/misfortunes-s">@misfortunes-s </a> <a href="https://github.com/AshesOfHerHalo">@AshesOfHerHalo</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/sorbetflakes">@sorbetflakes</a> <a href="https://github.com/AcxerSonnellino">@AcxerSonnellino</a> <a href="https://github.com/Solyrvv">@Solyrvv</a> <a href="https://github.com/yubelsrevenge">@yubelsrevenge</a> <a href="https://github.com/Chemicalshot">@Chemicalshot</a> <a href="https://github.com/NorthernShine">@NorthernShine</a> <a href="https://github.com/hamfoolish">@hamfoolish</a> <a href="https://github.com/UICTIM">@UICTIM</a> <a href="https://github.com/lostyaoi">@lostyaoi</a> <a href="https://github.com/princezammiest">@princezammiest</a> <a href="https://github.com/purefatal">@purefatal</a> <a href="https://github.com/1-IV">@1-IV</a> <a href="https://github.com/purelycursedangel">@purelycursedangel</a>
 
 creative ponies : <a href="https://github.com/vampyrumspectrum">vampyrumspectrum</a>
 
@@ -37,7 +37,7 @@ cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a hr
 
 artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a>
 
-kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/electrifypink">@electrifypink</a> <a href="https://github.com/devimccallion">@devimccallion</a> <a href="https://github.com/funk4punks">@funk4punks</a> <a href="https://github.com/Mayumixx">@Mayumixx</a>
+kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/electrifypink">@electrifypink</a> <a href="https://github.com/devimccallion">@devimccallion</a> <a href="https://github.com/funk4punks">@funk4punks</a> <a href="https://github.com/Mayumixx">@Mayumixx</a> <a href="https://github.com/ArthiaCarnation">@ArthiaCarnation</a>
 
 <p align="center">
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
@@ -289,3 +289,13 @@ characters of ponytown !
 <a href="https://github.com/ryomxnsukuna">@ryomxnsukuna</a> is ponytown’s sukuna !
 
 <a href="https://github.com/HachiHachiWare">@HachiHachiWare</a> is ponytown’s hachiware !
+
+<a href="https://github.com/DlSASTEROLOGY">@DlSASTEROLOGY</a> is ponytown’s kunigami rensuke !
+
+<a href="https://github.com/Sxarixiez">@Sxarixiez</a> is ponytown’s subspace (phighting) !
+
+<a href="https://github.com/T0R4X">@T0R4X</a> is ponytown’s truman burbank !
+
+<a href="https://github.com/Noctiluvancy">@Noctiluvancy</a> is ponytown’s heavy (tf2) !
+
+<a href="https://github.com/kawaiipuppymalcolm">@kawaiipuppymalcolm</a> is ponytown’s kazuichi soda !
