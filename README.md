@@ -287,3 +287,5 @@ characters of ponytown !
 <a href="https://github.com/MoriouChoRadio">@MoriouChoRadio</a> is ponytown’s koichi hirose !
 
 <a href="https://github.com/ryomxnsukuna">@ryomxnsukuna</a> is ponytown’s sukuna !
+
+<a href="https://github.com/HachiHachiWare">@HachiHachiWare</a> is ponytown’s hachiware !
