@@ -1,5 +1,5 @@
 <p align="center">
-LAST UPDATE : august 13th 2026
+LAST UPDATE : august 16th 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
@@ -74,7 +74,7 @@ characters of ponytown !
 
 <a href="https://github.com/kniferrific">@kniferrific</a> is ponytown’s craig tucker !
 
-<a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> is ponytown’s bendy !
+<a href="https://github.com/ringodemon">@ringodemon</a> is ponytown’s bendy !
 
 <a href="https://github.com/sw33tsug4rcookie">@sw33tsug4rcookie</a> is ponytown’s ginger the cookie !
 
