@@ -299,3 +299,5 @@ characters of ponytown !
 <a href="https://github.com/Noctiluvancy">@Noctiluvancy</a> is ponytown’s heavy (tf2) !
 
 <a href="https://github.com/kawaiipuppymalcolm">@kawaiipuppymalcolm</a> is ponytown’s kazuichi soda !
+
+<a href="https://github.com/dontpanicexe">@dontpanicexe</a> is ponytown’s wrench (watch dogs 2) !
