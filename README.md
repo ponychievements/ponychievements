@@ -301,3 +301,5 @@ characters of ponytown !
 <a href="https://github.com/kawaiipuppymalcolm">@kawaiipuppymalcolm</a> is ponytown’s kazuichi soda !
 
 <a href="https://github.com/dontpanicexe">@dontpanicexe</a> is ponytown’s wrench (watch dogs 2) !
+
+<a href="https://github.com/NostalgicSplatterlingSys">@NostalgicSplatterlingSys</a> is ponytown’s captain 3 (splatoon 3) !
