@@ -1,5 +1,5 @@
 <p align="center">
-LAST UPDATE : august 17th 2026
+LAST UPDATE : august 18th 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
@@ -303,3 +303,5 @@ characters of ponytown !
 <a href="https://github.com/dontpanicexe">@dontpanicexe</a> is ponytown’s wrench (watch dogs 2) !
 
 <a href="https://github.com/NostalgicSplatterlingSys">@NostalgicSplatterlingSys</a> is ponytown’s captain 3 (splatoon 3) !
+
+<a href="https://github.com/livscent">@livscent</a> is ponytown’s leafy (bfdi) !
