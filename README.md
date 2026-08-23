@@ -35,7 +35,7 @@ niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a hre
 
 cuddly players : <a href="https://github.com/01-800-PAPU">@01-800-PAPU</a> <a href="https://github.com/DEADP0ET">@0DEADP0ET</a> <a href="https://github.com/Xaplastcore">@Xaplastcore</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/yaoiliker">@yaoiliker</a> <a href="https://github.com/pawfectangel">@pawfectangel</a> <a href="https://github.com/01yaoimaster">@01yaoimaster</a> <a href="https://github.com/dustinsconstellation">@dustinsconstellation</a> <a href="https://github.com/CloveredFields">@CloveredFields</a> <a href="https://github.com/harveqxd">@harveqxd</a> <a href="https://github.com/cemetriiez">@cemetriiez</a> <a href="https://github.com/princezammiest">@princezammiest</a> <a href="https://github.com/Mayumixx">@Mayumixx</a> <a href="https://github.com/SillySin123">@SillySin123</a>
 
-artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a> <a href="https://github.com/tomatoLover112">@tomatoLover112</a>
+artist players : <a href="https://github.com/slaughterwolf">@slaughterwolf</a> <a href="https://github.com/NorthernShine">@NorthernShine</a> <a href="https://github.com/tomatoLover112">@tomatoLover112</a> <a href="https://github.com/TeaReverie">@TeaReverie</a>
 
 kindest players : <a href="https://github.com/gamblersi">@Gamblersi</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/PURSUITCORE">@PURSUITCORE</a> <a href="https://github.com/realdustsans">@realdustsans</a> <a href="https://github.com/electrifypink">@electrifypink</a> <a href="https://github.com/devimccallion">@devimccallion</a> <a href="https://github.com/funk4punks">@funk4punks</a> <a href="https://github.com/Mayumixx">@Mayumixx</a> <a href="https://github.com/ArthiaCarnation">@ArthiaCarnation</a>
 
@@ -309,3 +309,7 @@ characters of ponytown !
 <a href="https://github.com/4lamort">@4lamort</a> is ponytown’s dracula !
 
 <a href="https://github.com/spam-tune">@spam-tune</a> is ponytown’s human mr. ant tenna !
+
+<a href="https://github.com/averagescor">@averagescor</a> is ponytown’s kris (deltarune) !
+
+<a href="https://github.com/hoobae">@hoobae</a> is ponytown’s mizi (alnst) !
