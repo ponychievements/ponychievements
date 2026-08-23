@@ -313,3 +313,5 @@ characters of ponytown !
 <a href="https://github.com/averagescor">@averagescor</a> is ponytown’s kris (deltarune) !
 
 <a href="https://github.com/hoobae">@hoobae</a> is ponytown’s mizi (alnst) !
+
+<a href="https://github.com/Blossoming-Truth">@Blossoming-Truth</a> is ponytown’s monika !
