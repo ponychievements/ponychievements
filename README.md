@@ -315,3 +315,7 @@ characters of ponytown !
 <a href="https://github.com/hoobae">@hoobae</a> is ponytown’s mizi (alnst) !
 
 <a href="https://github.com/Blossoming-Truth">@Blossoming-Truth</a> is ponytown’s monika !
+
+<a href="https://github.com/duckseatbreads">@duckseatbreads</a> is ponytown’s john jones (absolute martian manhunter) !
+
+<a href="https://github.com/cashreggister">@cashreggister</a> is ponytown’s goomy (pokemon) !
