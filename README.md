@@ -29,7 +29,7 @@ pretty ponies : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="h
 
 creative ponies : <a href="https://github.com/vampyrumspectrum">vampyrumspectrum</a>
 
-pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a> <a href="https://github.com/rinsagi">@rinsagi</a> <a href="https://github.com/sw33tsug4rcookie">@sw33tsug4rcookie</a> <a href="https://github.com/zombdisaster">@zombdisaster</a> <a href="https://github.com/nyaniism">@nyaniism</a> <a href="https://github.com/scrsonmythighs">@scrsonmythighs</a> <a href="https://github.com/UICTIM">@UICTIM</a> <a href="https://github.com/sir-chloe">@sir-chloe</a> <a href="https://github.com/xdeadmeatcolx">@xdeadmeatcolx</a>
+pretty githubs : <a href="https://github.com/yaasuhiro">@yaasuhiro</a> <a href="https://github.com/princesszam">@PrincessZam</a> <a href="https://github.com/MrNovalite">@MrNovalite</a> <a href="https://github.com/denguemon">@denguemon</a> <a href="https://github.com/DollsMassacre">@DollsMassacre</a> <a href="https://github.com/misfortunes-s">@misfortunes-s</a> <a href="https://github.com/Canto8">@Canto8</a> <a href="https://github.com/Fuminoomi">@Fuminoomi</a> <a href="https://github.com/CosmoThePastryy">@CosmoThePastryy</a> <a href="https://github.com/rinsagi">@rinsagi</a> <a href="https://github.com/sw33tsug4rcookie">@sw33tsug4rcookie</a> <a href="https://github.com/zombdisaster">@zombdisaster</a> <a href="https://github.com/nyaniism">@nyaniism</a> <a href="https://github.com/scrsonmythighs">@scrsonmythighs</a> <a href="https://github.com/UICTIM">@UICTIM</a> <a href="https://github.com/sir-chloe">@sir-chloe</a> <a href="https://github.com/xdeadmeatcolx">@xdeadmeatcolx</a> <a href="https://github.com/llBATMAN">@llBATMAN</a>
 
 niche players : <a href="https://github.com/kniferrific">@kniferrific</a> <a href="https://github.com/Gfpaw">@Gfpaw</a> <a href="https://github.com/zyvism">@zyvism</a> <a href="https://github.com/SQUEVIL">@SQUEVIL</a> <a href="https://github.com/siriuzs">@siriuzs</a> <a href="https://github.com/saps4flux">@saps4flux</a> <a href="https://github.com/sweetiepii">@sweetiepii</a> <a href="https://github.com/spam-tune">@spam-tune</a>
 
@@ -319,3 +319,9 @@ characters of ponytown !
 <a href="https://github.com/duckseatbreads">@duckseatbreads</a> is ponytown’s john jones (absolute martian manhunter) !
 
 <a href="https://github.com/cashreggister">@cashreggister</a> is ponytown’s goomy (pokemon) !
+
+<a href="https://github.com/Gatita-here">@Gatita-here</a> is ponytown’s groxMC !
+
+<a href="https://github.com/Itrappedfan">@Itrappedfan</a> is ponytown’s froggydude !
+
+<a href="https://github.com/llBATMAN">@llBATMAN</a> is ponytown’s batman !
