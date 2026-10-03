@@ -4,7 +4,7 @@ LAST UPDATE : october 3rd 2026
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
 <p align="center">
-PLEASE READ! i am currently taking a break!!! this means i will not be adding nominations to this list OR updating it in ANY WAY until i get the motivation to do it again! please be patient and do not spam me! i do not know when i’ll start again, and character nominations may be closed for awhile even when i do come back (only character nominations, not the category nominations) but PLEASE nobody send anymore nominations or requests to update anything UNTIL this message is gone! ^_^
+PLEASE READ! i am currently taking a break!!! this means i will not be adding nominations to this list OR updating it in ANY WAY until i get the motivation to do it again! please be patient and do not spam me! i do not know when i’ll start again, and character nominations may be closed for awhile even when i do come back (only character nominations, not the category nominations) but PLEASE nobody send anymore nominations or requests to update anything UNTIL this message is gone, as they will not be fulfilled! ^_^
 
 <p align="center">
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
