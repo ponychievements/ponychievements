@@ -1,8 +1,10 @@
 <p align="center">
-LAST UPDATE : september 3rd 2026
+LAST UPDATE : october 3rd 2026
 <p align="center">
 <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/haidaware/hits.svg?label=ponies&color=254957&labelColor=F9F4CC"/></a>
 
+<p align="center">
+PLEASE READ! i am currently taking a break!!! this means i will not be adding nominations to this list until i get the motivation to do it again! please be patient and do not spam me! ^_^
 
 <p align="center">
  <img src="https://files.catbox.moe/8lol50.png"style="width: 100%; height: auto;" />
